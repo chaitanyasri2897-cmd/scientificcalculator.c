@@ -84,11 +84,5 @@ int main() {
     return 0;
 }
 
+<img width="1100" height="793" alt="image" src="https://github.com/user-attachments/assets/04dd3a1b-5318-4d62-bccc-ad9f6e300dc7" />
 
-    <img width="1100" height="793" alt="image" src="https://github.com/user-attachments/assets/09ebb144-96f3-4daa-9649-fb48ef9ecd4f" />
-
-
-
-
-
-    <img width="1100" height="793" alt="image" src="https://github.com/user-attachments/assets/8ecc73cf-6119-47ef-b728-1b1396ba0bb8" />
